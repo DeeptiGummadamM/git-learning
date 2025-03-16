@@ -2,6 +2,7 @@ Get the user data
 get avatar
 process the data
 login and logout
+closing the changes
 
 chnage 1
 change 2 on harsh
